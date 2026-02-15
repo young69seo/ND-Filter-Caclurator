@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		6F44BB412F4140BD00B25C9C /* ND Filter Caclurator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ND Filter Caclurator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F44BB412F4140BD00B25C9C /* ND Mate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ND Mate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6F44BB432F4140BD00B25C9C /* ND Filter Caclurator */ = {
+		6F44BB432F4140BD00B25C9C /* ND Mate */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "ND Filter Caclurator";
+			path = "ND Mate";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		6F44BB382F4140BD00B25C9C = {
 			isa = PBXGroup;
 			children = (
-				6F44BB432F4140BD00B25C9C /* ND Filter Caclurator */,
+				6F44BB432F4140BD00B25C9C /* ND Mate */,
 				6F44BB422F4140BD00B25C9C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		6F44BB422F4140BD00B25C9C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F44BB412F4140BD00B25C9C /* ND Filter Caclurator.app */,
+				6F44BB412F4140BD00B25C9C /* ND Mate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F44BB402F4140BD00B25C9C /* ND Filter Caclurator */ = {
+		6F44BB402F4140BD00B25C9C /* ND Mate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F44BB4C2F4140BE00B25C9C /* Build configuration list for PBXNativeTarget "ND Filter Caclurator" */;
+			buildConfigurationList = 6F44BB4C2F4140BE00B25C9C /* Build configuration list for PBXNativeTarget "ND Mate" */;
 			buildPhases = (
 				6F44BB3D2F4140BD00B25C9C /* Sources */,
 				6F44BB3E2F4140BD00B25C9C /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6F44BB432F4140BD00B25C9C /* ND Filter Caclurator */,
+				6F44BB432F4140BD00B25C9C /* ND Mate */,
 			);
-			name = "ND Filter Caclurator";
+			name = "ND Mate";
 			packageProductDependencies = (
 			);
 			productName = "ND Filter Caclurator";
-			productReference = 6F44BB412F4140BD00B25C9C /* ND Filter Caclurator.app */;
+			productReference = 6F44BB412F4140BD00B25C9C /* ND Mate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6F44BB3C2F4140BD00B25C9C /* Build configuration list for PBXProject "ND Filter Caclurator" */;
+			buildConfigurationList = 6F44BB3C2F4140BD00B25C9C /* Build configuration list for PBXProject "ND Mate" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F44BB402F4140BD00B25C9C /* ND Filter Caclurator */,
+				6F44BB402F4140BD00B25C9C /* ND Mate */,
 			);
 		};
 /* End PBXProject section */
@@ -253,6 +253,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ND Mate";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +285,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ND Mate";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -309,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F44BB3C2F4140BD00B25C9C /* Build configuration list for PBXProject "ND Filter Caclurator" */ = {
+		6F44BB3C2F4140BD00B25C9C /* Build configuration list for PBXProject "ND Mate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F44BB4A2F4140BE00B25C9C /* Debug */,
@@ -318,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F44BB4C2F4140BE00B25C9C /* Build configuration list for PBXNativeTarget "ND Filter Caclurator" */ = {
+		6F44BB4C2F4140BE00B25C9C /* Build configuration list for PBXNativeTarget "ND Mate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F44BB4D2F4140BE00B25C9C /* Debug */,
